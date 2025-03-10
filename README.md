@@ -1,2 +1,1 @@
-# Capturar_Todos_Errores_CSharp
- Capturar cualquier error no capturado en C# .Net
+Capturar cualquier error no capturado en C# .Net. Más información en: https://proyectoa.com/capturar-cualquier-error-no-capturado-en-c-net/
